@@ -1,5 +1,4 @@
-# parking-lot-exam
-Parking Lot Exam - NodeJs
+# Parking Lot Exam - NodeJs
 
 
 00 Parking Lot
