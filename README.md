@@ -1,5 +1,6 @@
 # Parking Lot Exam - NodeJs
 
+# TO RUN - node index.js
 
 00 Parking Lot
 
